@@ -1,0 +1,62 @@
+# Advanced Multiplayer Game Development with Unreal Engine 5	
+Advanced Multiplayer Game Development with Unreal Engine 5, published by CYBERKOALA LLC
+
+<a href="https://www.amazon.com/dp/B0DGTCTJ2G"><img src="/BookCoverAdvancedMPGameDevWithUE5.png" alt="Advanced Multiplayer Game Development with Unreal Engine 5" height="300px" align="left"></a>
+
+This is the code repository for [Advanced Multiplayer Game Development with Unreal Engine 5](https://www.amazon.com/dp/B0DGTCTJ2G), published by CYBERKOALA LLC.
+
+**A Comprehensive Guide to C++ Scripting**
+
+<b>What is this book about?</b>
+
+Unlock the secrets of creating immersive multiplayer experiences with Advanced Multiplayer Game Development with Unreal Engine 5. This book is a comprehensive guide for developers who want to push the boundaries of what's possible in networked games. Designed for experienced Unreal Engine users, this book delves into the intricate details of building sophisticated multiplayer systems and architectures.
+
+Explore the nuances of Unreal Engine 5's powerful networking capabilities, including replication and server-client communication.
+
+This book covers the following exciting features:
+
+* Get to grips with the basics of multiplayer game development
+* Understand the main elements of a networked level
+* Explore Unreal multiplayer features such as replication, RPCs, relevancy, and roles
+* Debug and optimize code for improved game performance
+* Deploy the game on online platforms
+* Use Epic Online Services to elevate the player experience
+  
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B0DGTCTJ2G) today!
+
+
+## Instructions and Navigations
+All of the files is organized into folders. For example, Chapter01.
+
+
+**Following is what you need for this book:**
+
+With the following software and hardware list you can run all code files present in the book.
+
+### Software and Hardware List
+| Software required                    | OS required                         |
+| ------------------------------------ | ----------------------------------- |
+| Unreal Engine 5.3                    | Windows 10 64-bit 20H2 or higher, Ubuntu 22.04, or the latest macOS Sonoma |
+| Visual Studio 2022 or JetBrains Rider| 8GB RAM, 4 Gb GPU, 70 GB Free space |
+
+
+## Get to Know the Author
+Dr. **Vladimir Kiselev** is a professional programming teacher based in Moscow, Russia. Previously, he was a website and VR programmer, focusing on game and application development; currently, he is a lecturer and chief technical officer at CYBERKOALA LLC. 
+
+## Additional Information
+
+_**Important Note**: the following project files have been created by using Unreal Engine 5.3. However, with a minor effort, you will be able to run the project with Unreal Engine 5.4 or higher._
+[UE 5.4 Migration Guide]([https://github.com/CyberKoalaStudios/Advanced-Multiplayer-Game-Development-With-Unreal-Engine-5/tree/main](https://github.com/CyberKoalaStudios/Advanced-Multiplayer-Game-Development-With-Unreal-Engine-5/blob/main/ue5_3.md))
+
+### Chapter 1 - Setting up a Multiplayer Environment
+
+* [Starter Content](https://github.com/CyberKoalaStudios/Advanced-Multiplayer-Game-Development-With-Unreal-Engine-5/releases/download/us-starter-content/StarterContent.zip) (19.7 MB)
+* [Chapter 01 End](https://github.com/CyberKoalaStudios/Multiplayer-Game-Development-With-Unreal-Engine-5/releases/download/us-chapter-04-end/chapter-04-end.zip) (19.6 MB)
+
+## Credits
+
+* **Models**
+   *   
+   * _KayKit Dungeon Pack (1.0)_: by [www.kaylousberg.com](http://www.kaylousberg.com)
+   * _KayKit Character Pack - Skeletons (1.0)_: by [www.kaylousberg.com](http://www.kaylousberg.com)
+   * _KayKit Character Animations (1.2)_:  by [www.kaylousberg.com](http://www.kaylousberg.com)
