@@ -48,6 +48,12 @@ Dr. **Vladimir Kiselev** is a professional programming teacher based in Moscow, 
 _**Important Note**: the following project files have been created by using Unreal Engine 5.3. However, with a minor effort, you will be able to run the project with Unreal Engine 5.4 or higher._
 [UE 5.4 Migration Guide]([https://github.com/CyberKoalaStudios/Advanced-Multiplayer-Game-Development-With-Unreal-Engine-5/tree/main](https://github.com/CyberKoalaStudios/Advanced-Multiplayer-Game-Development-With-Unreal-Engine-5/blob/main/ue5_3.md))
 
+## Part I - Simple Design Patterns
+### Chapter02
+[Chapter02](https://github.com/CyberKoalaStudios/Advanced-Multiplayer-Game-Development-With-Unreal-Engine-5/tree/main/Part-I/Chapter02)
+[Chapter02_done](https://github.com/CyberKoalaStudios/Advanced-Multiplayer-Game-Development-With-Unreal-Engine-5/blob/main/Part-I/Chapter02_done.zip)
+
+## Part II - 
 ### Chapter 1 - Setting up a Multiplayer Environment
 
 * [Starter Content](https://github.com/CyberKoalaStudios/Advanced-Multiplayer-Game-Development-With-Unreal-Engine-5/releases/download/us-starter-content/StarterContent.zip) (19.7 MB)
