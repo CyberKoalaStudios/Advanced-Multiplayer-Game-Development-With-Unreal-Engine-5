@@ -50,14 +50,16 @@ _**Important Note**: the following project files have been created by using Unre
 
 ## Part I - Simple Design Patterns
 ### Chapter02
+
 [Chapter02](https://github.com/CyberKoalaStudios/Advanced-Multiplayer-Game-Development-With-Unreal-Engine-5/tree/main/Part-I/Chapter02)
+
 [Chapter02_done](https://github.com/CyberKoalaStudios/Advanced-Multiplayer-Game-Development-With-Unreal-Engine-5/blob/main/Part-I/Chapter02_done.zip)
 
 ## Part II - 
 ### Chapter 1 - Setting up a Multiplayer Environment
 
-* [Starter Content](https://github.com/CyberKoalaStudios/Advanced-Multiplayer-Game-Development-With-Unreal-Engine-5/releases/download/us-starter-content/StarterContent.zip) (19.7 MB)
-* [Chapter 01 End](https://github.com/CyberKoalaStudios/Multiplayer-Game-Development-With-Unreal-Engine-5/releases/download/us-chapter-04-end/chapter-04-end.zip) (19.6 MB)
+* [Starter Content](https://github.com/CyberKoalaStudios/Advanced-Multiplayer-Game-Development-With-Unreal-Engine-5/releases/download/us-starter-content/StarterContent.zip) 
+* [Chapter 01 End](https://github.com/CyberKoalaStudios/Multiplayer-Game-Development-With-Unreal-Engine-5/releases/download/us-chapter-04-end/chapter-04-end.zip) 
 
 ## Credits
 
