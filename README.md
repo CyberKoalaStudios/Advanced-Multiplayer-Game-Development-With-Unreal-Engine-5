@@ -22,7 +22,7 @@ This book covers the following exciting features:
 * Deploy the game on online platforms
 * Use Epic Online Services to elevate the player experience
   
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B0DGTCTJ2G) today!
+If you feel this book is for you, get your [copy](https://books2read.com/cyberkoala) today!
 
 
 ## Instructions and Navigations
