@@ -1,0 +1,24 @@
+Proporietary License
+
+Copyright (c) 2024, CYBERKOALA LLC.
+
+Redistribution and use in source and binary forms, with or without
+modification, are restricted.
+
+License Agreement:
+This software is the property of CyberKoala LLC. It is licensed. You are granted a limited, non-transferable, non-exclusive license to use this software in accordance with the terms outlined in this agreement.
+
+Restrictions:
+You may not distribute, share, sublicense, lease, or otherwise transfer this software to any third party without explicit written permission from CyberKoala LLC.
+You may not modify, reverse engineer, decompile, or create derivative works based on this software.
+
+Intellectual Property:
+All intellectual property rights, including but not limited to copyrights, trademarks, and trade secrets, remain the exclusive property of CyberKoala LLC.
+
+Any unauthorized use, reproduction, or distribution of this software is strictly prohibited and may result in severe civil and criminal penalties.
+
+Contact:
+For permissions or inquiries regarding this software, please contact CyberKoala LLC.
+Copyright (c) 2024 CYBERKOALA LLC
+
+contact@cyberkoalastudios.com
