@@ -41,12 +41,11 @@ With the following software and hardware list you can run all code files present
 
 
 ## Get to Know the Author
-Dr. **Vladimir Kiselev** is a professional programming teacher based in Moscow, Russia. Previously, he was a website and VR programmer, focusing on game and application development; currently, he is a lecturer and chief technical officer at CYBERKOALA LLC. 
+PhD. **Vladimir Kiselev** is a professional programming teacher based in Moscow, Russia. Previously, he was a website and VR programmer, focusing on game and application development; currently, he is a lecturer and chief technical officer at CYBERKOALA LLC. 
 
 ## Additional Information
 
-_**Important Note**: the following project files have been created by using Unreal Engine 5.3. However, with a minor effort, you will be able to run the project with Unreal Engine 5.4 or higher._
-[UE 5.4 Migration Guide]([https://github.com/CyberKoalaStudios/Advanced-Multiplayer-Game-Development-With-Unreal-Engine-5/tree/main](https://github.com/CyberKoalaStudios/Advanced-Multiplayer-Game-Development-With-Unreal-Engine-5/blob/main/ue5_3.md))
+_**Important Note**: the following project files have been created by using Unreal Engine 5.3 with upgrade to 5.5 during the course. However, with a minor effort, you will be able to run the project with later Unreal Engine versions._
 
 ## Part I - Simple Design Patterns
 ### Chapter02
