@@ -1,7 +1,7 @@
 # Advanced Multiplayer Game Development with Unreal Engine 5	
 Advanced Multiplayer Game Development with Unreal Engine 5, published by CYBERKOALA LLC
 
-<a href="https://books2read.com/b/m2aeOG"><img src="/BookCoverAdvancedMPGameDevWithUE5_2.jpg" alt="Advanced Multiplayer Game Development with Unreal Engine 5" height="300px" align="left"></a>
+<a href="https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5"><img src="/BookCoverAdvancedMPGameDevWithUE5_2.jpg" alt="Advanced Multiplayer Game Development with Unreal Engine 5" height="300px" align="left"></a>
 
 This is the code repository for [Advanced Multiplayer Game Development with Unreal Engine 5](https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5), published by CYBERKOALA LLC.
 
