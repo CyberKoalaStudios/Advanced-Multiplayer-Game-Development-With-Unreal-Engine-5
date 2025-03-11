@@ -3,7 +3,7 @@ Advanced Multiplayer Game Development with Unreal Engine 5, published by CYBERKO
 
 <a href="https://books2read.com/b/m2aeOG"><img src="/BookCoverAdvancedMPGameDevWithUE5_2.jpg" alt="Advanced Multiplayer Game Development with Unreal Engine 5" height="300px" align="left"></a>
 
-This is the code repository for [Advanced Multiplayer Game Development with Unreal Engine 5](https://books2read.com/b/m2aeOG), published by CYBERKOALA LLC.
+This is the code repository for [Advanced Multiplayer Game Development with Unreal Engine 5](https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5), published by CYBERKOALA LLC.
 
 **A Comprehensive Guide to C++ Scripting**
 
@@ -22,7 +22,7 @@ This book covers the following exciting features:
 * Deploy the game on online platforms
 * Use Epic Online Services to elevate the player experience
   
-If you feel this book is for you, get your [copy](https://books2read.com/b/m2aeOG) today!
+If you feel this book is for you, get your [copy](https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5) today!
 
 
 ## Instructions and Navigations
